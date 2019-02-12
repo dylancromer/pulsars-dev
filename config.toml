@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseurl = "//dylancromer.com/pulsars/"               # Your domain name. Must end with "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 

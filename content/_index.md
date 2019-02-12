@@ -4,7 +4,9 @@ outputs = ["Reveal"]
 hasMath = true
 +++
 
-# Hello world!
+### Observations of a Rapidly Pulsating Radio Source
+
+A. Hewish, J. Bell, et al
 
 ---
 
