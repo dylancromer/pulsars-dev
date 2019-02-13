@@ -102,8 +102,6 @@ _Interplanetary scintillations_
 
 ![fig2cap](images/fig2cap.png)
 
-{{% /section %}}
-
 ---
 
 ## Why does it vary?
@@ -111,6 +109,8 @@ _Interplanetary scintillations_
 - Planetary scintillation could contribute
  - but not sufficient to explain short-timescale (minutes) variation
 - No clear correlations or systematic variations
+
+{{% /section %}}
 
 ---
 
@@ -133,6 +133,8 @@ _Interplanetary scintillations_
 
 ---
 
+{{% section %}}
+
 ## Summing it up
 
 - Local objects (galactic)
@@ -149,6 +151,8 @@ _Interplanetary scintillations_
  - (e.g. disturbance in stellar atmosphere)
 - Bell and Hewish suggest radial pulsation of compact stars (due to work by Meltzer and Thorne)
  - White dwarf periods pose problems (fundamental mode too low in frequency), neutron stars are compatible
+
+{{% /section %}}
 
 ---
 
@@ -178,3 +182,42 @@ Original crab pulsar sources detected by Staelin and Reifenstein (1968)
 Richard Lovelace and collaborators localized these sources using Arecibo.
 
 {{% /section %}}
+
+---
+
+## The 1974 Nobel Prize
+
+- Awarded to Antony Hewish and Martin Ryle; to Hewish for the discovery of pulsars.
+- Bell not mentioned
+
+Why not?
+
+---
+
+## The 1974 Nobel Prize
+
+### "... it is the supervisor who has the final responsibility for the success or failure of the project... Thirdly, I believe it would demean Nobel Prizes if they were awarded to research students, except in very exceptional cases, and I do not believe this is one of them. Finally, I am not myself upset about it — after all, I am in good company, am I not!" - Jocelyn Bell, 1977
+
+---
+
+## The 1974 Nobel Prize
+
+On the other hand...
+
+Bell helped in the construction of the array for two years.
+
+Once seeing the anomalous signal, she spent a month reading 96 feet of paper recordings a day.
+
+She had to argue with Hewish that the signal was not mere interference. 
+
+#### [One source recounting some of Bell's words on this](https://www.npr.org/2018/09/06/645257118/in-1974-they-gave-the-nobel-to-her-supervisor-now-shes-won-a-3-million-prize)
+
+---
+
+## Just Last Year
+
+Bell Burnell was awarded a Breakthrough Prize, the largest monetary science prizes in the world.
+
+---
+
+Thank you for listening
