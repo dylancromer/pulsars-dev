@@ -10,6 +10,10 @@ A. Hewish, J. Bell (now Bell Burnell), et al
 
 ---
 
+![array](images/array.jpg)
+
+---
+
 ## What they were looking for:
 
 Quasars. 
@@ -25,10 +29,6 @@ _Interplanetary scintillations_
 ![scintillation](images/scint.jpg)
 
 #### Image credit: [_Little Green Men, White Dwarfs or Pulsars?_ Jocelyn Bell Burnell](http://www.bigear.org/CSMO/HTML/CS01/cs01p16.htm)
-
----
-
-![array](images/array.jpg)
 
 ---
 
