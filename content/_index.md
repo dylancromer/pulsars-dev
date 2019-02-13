@@ -78,16 +78,6 @@ _Interplanetary scintillations_
 
 ---
 
-## Estimates of Dispersion
-
-- First used two identical receivers tuned to 80.5 MHz and 81.5 MHz
- - from this they find delay in the lower frequency of 0.2 seconds, or a shift of - 5 MHz/second
-- Second method used extra length of cable for half of the receiver
- - causes frequency-dependent phase; receiver oscillates with a period related to the change in frequency over time
- - using this method, get {{< latex "- 4.9 \pm 0.5" >}} MHz/second
-
----
-
 {{% section %}}
 
 ## Variations in Amplitude
@@ -120,7 +110,7 @@ _Interplanetary scintillations_
  - while Bell and Hewish considered it, they abandoned this idea after more than one source observed far apart in the sky
 - No parallax greater than 2 arcmin
  - source at distance of at least {{< latex "10^3" >}} AU
- - energy at least {{ latex "10^{17}" >}} ergs (assuming isotropic source)
+ - energy at least {{< latex "10^{17}" >}} ergs (assuming isotropic source)
 
 ---
 
@@ -185,6 +175,8 @@ Richard Lovelace and collaborators localized these sources using Arecibo.
 
 ---
 
+{{% section %}}
+
 ## The 1974 Nobel Prize
 
 - Awarded to Antony Hewish and Martin Ryle; to Hewish for the discovery of pulsars.
@@ -198,17 +190,17 @@ Why not?
 
 ### "... it is the supervisor who has the final responsibility for the success or failure of the project... Thirdly, I believe it would demean Nobel Prizes if they were awarded to research students, except in very exceptional cases, and I do not believe this is one of them. Finally, I am not myself upset about it — after all, I am in good company, am I not!" - Jocelyn Bell, 1977
 
+{{% /section %}}
+
 ---
 
 ## The 1974 Nobel Prize
 
 On the other hand...
 
-Bell helped in the construction of the array for two years.
-
-Once seeing the anomalous signal, she spent a month reading 96 feet of paper recordings a day.
-
-She had to argue with Hewish that the signal was not mere interference. 
+- Bell helped in the construction of the array for two years.
+- Once seeing the anomalous signal, she spent a month reading 96 feet of paper recordings a day.
+- She had to argue with Hewish that the signal was not mere interference. 
 
 #### [One source recounting some of Bell's words on this](https://www.npr.org/2018/09/06/645257118/in-1974-they-gave-the-nobel-to-her-supervisor-now-shes-won-a-3-million-prize)
 
