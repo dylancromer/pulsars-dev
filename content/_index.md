@@ -74,7 +74,7 @@ _Interplanetary scintillations_
 
 - Observed period of  {{< latex "1.33733 \pm 0.00001" >}}
 - Done with 6 hour time window
-- Using measurements taken over a months and correcting for Earth's motion, get {{< latex "1.3372795 \pm 0.0000020" >}}
+- Using measurements taken over a month and correcting for Earth's motion, get {{< latex "1.3372795 \pm 0.0000020" >}}
 
 ---
 
