@@ -1,6 +1,6 @@
 baseurl = "//dylancromer.com/pulsars/"               # Your domain name. Must end with "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "The OG Pulsar Paper"
 
 theme = "reveal-hugo"
 
@@ -8,3 +8,6 @@ theme = "reveal-hugo"
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[params.reveal_hugo]
+theme = "black"
